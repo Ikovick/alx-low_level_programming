@@ -2,21 +2,20 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (success/correct
+ * Return: Always 0 (success/correct)
  */
 int main(void)
 
 {
-int I:
+int i;
 
-for (i = 48 ;mi <= 57; i++)
+for (i = 48 ; i <= 57; i++)
 {
 putchar (i);
 }
 
-put char ('\n');
+putchar ('\n');
 
-
-return (0);
+return (0)
 
 }
